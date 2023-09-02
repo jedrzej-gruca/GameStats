@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503468321775",
+    "project_id": "game-stats-270718",
+    "storage_bucket": "game-stats-270718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503468321775:android:3564ba6b0377b079cd241a",
+        "android_client_info": {
+          "package_name": "com.example.game_stats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503468321775-637fmlj2c55b9nklv190b71jkfp8kvtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_pHd_6q_OyvBZfMFbdCxjua9tI6hzJpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503468321775-637fmlj2c55b9nklv190b71jkfp8kvtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
